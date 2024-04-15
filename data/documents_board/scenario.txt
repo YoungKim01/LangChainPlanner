@@ -1,0 +1,24 @@
+scenario
+
+ask: how do I create a board paper
+agent: what are agnedas?
+
+ask:
+*performance
+*operation
+*profit
+agent: eamiling NEC(Board members). List below
+List: ceo xyz, coo xyz, etc
+
+[need to fix this part as we need to wait/chase]
+ask: I got responses from NEC. Here's board paper content.
+*performance: [content xyz]
+*operation: [content xyz]
+*profit:  [content xyz]
+agent: compiled into a paper. do you want to fix anything? otherwise circulate to board members.
+
+ask: fix xyz.
+agent: fixed version here. circulate to board members?
+
+ask: yes
+agent: circulate
